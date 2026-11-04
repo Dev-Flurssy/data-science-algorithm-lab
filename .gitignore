@@ -8,9 +8,10 @@ datasets/
 data/
 
 # Jupyter
-.jupyter/
 .ipynb_checkpoints/
-*.jupyterlab-workspace
+*.ipynb
+.jupyter/
+.jupyterlab-workspaces/
 
 # Environment Variables
 .env
